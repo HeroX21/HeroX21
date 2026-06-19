@@ -22,14 +22,14 @@
 <div align="center">
 
 ```diff
-+ "Code • Design • Market • Scale" — the four pillars of every digital product I build.
++ "Code â€¢ Design â€¢ Market â€¢ Scale" â€” the four pillars of every digital product I build.
 ```
 
 </div>
 
 ---
 
-## 👋 About Me
+## ðŸ‘‹ About Me
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ role:
   - Graphic Designer & UI/UX Designer
   - Digital Marketing Strategist
   - Founder & Entrepreneur
-location: Delhi, India 🇮🇳
+location: Delhi, India ðŸ‡®ðŸ‡³
 experience: 2+ Years
 focus:
   - Building scalable digital solutions
@@ -52,23 +52,23 @@ focus:
 interests:
   - Coding & system architecture
   - Graphic design & motion design
-  - Anime 🎴 | Music 🎧 | Marvel 🦸
-  - Travel ✈️
+  - Anime ðŸŽ´ | Music ðŸŽ§ | Marvel ðŸ¦¸
+  - Travel âœˆï¸
 status: "Open to freelance, contract & collaboration work"
 ```
 
 </td>
 <td width="40%" valign="top">
 
-**🚀 What I Do**
+**ðŸš€ What I Do**
 - Full Stack Web Development
 - Graphic & Brand Design
 - SEO & Performance Marketing
 - LMS & Enterprise Platforms
 - AI-Assisted Product Building
 
-**📍 Based In**
-Delhi, India — working with clients globally.
+**ðŸ“ Based In**
+Delhi, India â€” working with clients globally.
 
 </td>
 </tr>
@@ -76,24 +76,24 @@ Delhi, India — working with clients globally.
 
 ---
 
-## 🏢 Founder & Digital Strategist
+## ðŸ¢ Founder & Digital Strategist
 
 <div align="center">
 
 ### **India Digital Prachar**
-*A full-service digital growth agency — from website to revenue.*
+*A full-service digital growth agency â€” from website to revenue.*
 
 </div>
 
 | Service | Service | Service |
 |---|---|---|
-| 🌐 Website Design & Development | 📚 LMS Development | 🔍 SEO Services |
-| 📢 Google Ads | 📱 Meta Ads | 🎨 Graphic Design |
-| 🎬 Video Editing | 📈 Social Media Marketing | 🏷️ Business Branding |
+| ðŸŒ Website Design & Development | ðŸ“š LMS Development | ðŸ” SEO Services |
+| ðŸ“¢ Google Ads | ðŸ“± Meta Ads | ðŸŽ¨ Graphic Design |
+| ðŸŽ¬ Video Editing | ðŸ“ˆ Social Media Marketing | ðŸ·ï¸ Business Branding |
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 <div align="center">
 
@@ -155,31 +155,31 @@ Delhi, India — working with clients globally.
 
 ---
 
-## 🎓 Education & Training
+## ðŸŽ“ Education & Training
 
 ```
-2024 ──● MCA / Master Diploma in Computer Information & Systems
-        │
-2021 ──● BCA — Maharaja Agrasen Himalayan Garhwal University
-        │
-   ●──● Career Infotech — Basic Computer Education
-        │
-   ●──● Oxford Software Institute — Graphic Designing & Animation
-        │
-   ●──● Network Net — Web Designing & MERN Stack
-        │
-   ●──● DUCAT — Android & Flutter Development
+2024 â”€â”€â— MCA / Master Diploma in Computer Information & Systems
+        â”‚
+2021 â”€â”€â— BCA â€” Maharaja Agrasen Himalayan Garhwal University
+        â”‚
+   â—â”€â”€â— Career Infotech â€” Basic Computer Education
+        â”‚
+   â—â”€â”€â— Oxford Software Institute â€” Graphic Designing & Animation
+        â”‚
+   â—â”€â”€â— Network Net â€” Web Designing & MERN Stack
+        â”‚
+   â—â”€â”€â— DUCAT â€” Android & Flutter Development
 ```
 
 ---
 
-## 💼 Services
+## ðŸ’¼ Services
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🌐 Website Development
+### ðŸŒ Website Development
 - Business Websites
 - Corporate Websites
 - E-commerce Websites
@@ -189,7 +189,7 @@ Delhi, India — working with clients globally.
 </td>
 <td width="33%" valign="top">
 
-### 🎨 Graphic Design
+### ðŸŽ¨ Graphic Design
 - Logo Design
 - Brand Identity
 - Social Media Creatives
@@ -198,7 +198,7 @@ Delhi, India — working with clients globally.
 </td>
 <td width="33%" valign="top">
 
-### 📈 Digital Marketing
+### ðŸ“ˆ Digital Marketing
 - SEO
 - Google Ads
 - Meta Ads
@@ -211,25 +211,25 @@ Delhi, India — working with clients globally.
 
 ---
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Lucid Academy LMS
+### ðŸš€ Lucid Academy LMS
 Full-featured Learning Management System for course delivery, student tracking, and online assessments.
 
-**Tech:** React · Node.js · MongoDB · Express<br/>
+**Tech:** React Â· Node.js Â· MongoDB Â· Express<br/>
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 UPSC Learning Platform
+### ðŸš€ UPSC Learning Platform
 Structured exam-prep platform with content delivery, mock tests, and progress analytics for civil services aspirants.
 
-**Tech:** PHP · MySQL · JavaScript<br/>
+**Tech:** PHP Â· MySQL Â· JavaScript<br/>
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
 
 </td>
@@ -237,19 +237,19 @@ Structured exam-prep platform with content delivery, mock tests, and progress an
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 OfiSync Office Management System
+### ðŸš€ OfiSync Office Management System
 End-to-end office operations suite covering HR, task tracking, and internal communication.
 
-**Tech:** React · Node.js · MongoDB<br/>
+**Tech:** React Â· Node.js Â· MongoDB<br/>
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 AttendX Attendance System
+### ðŸš€ AttendX Attendance System
 Automated attendance and workforce tracking system with real-time reporting dashboards.
 
-**Tech:** PHP · MySQL · JavaScript<br/>
+**Tech:** PHP Â· MySQL Â· JavaScript<br/>
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
 </td>
@@ -257,19 +257,19 @@ Automated attendance and workforce tracking system with real-time reporting dash
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 AI Web App Builder
+### ðŸš€ AI Web App Builder
 Experimental tool that generates functional web app scaffolds using AI-assisted code generation.
 
-**Tech:** React · Node.js · AI APIs<br/>
+**Tech:** React Â· Node.js Â· AI APIs<br/>
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Business Automation Platforms
+### ðŸš€ Business Automation Platforms
 Custom automation systems for lead management, marketing workflows, and operational reporting.
 
-**Tech:** PHP · Node.js · MySQL · APIs<br/>
+**Tech:** PHP Â· Node.js Â· MySQL Â· APIs<br/>
 ![Status](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)
 
 </td>
@@ -278,7 +278,7 @@ Custom automation systems for lead management, marketing workflows, and operatio
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
 
@@ -302,27 +302,27 @@ Custom automation systems for lead management, marketing workflows, and operatio
 
 <!--END_SECTION:waka-->
 
-> 💡 To enable the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo's workflow — it generates the SVG automatically from your contribution graph.
+> ðŸ’¡ To enable the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo's workflow â€” it generates the SVG automatically from your contribution graph.
 
 ---
 
-## 🏆 Achievements
+## ðŸ† Achievements
 
 <div align="center">
 
-![](https://img.shields.io/badge/🏆-Full%20Stack%20Developer-1B2A4A?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🏆-Graphic%20Designer-1B2A4A?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🏆-Digital%20Marketing%20Specialist-1B2A4A?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🏆-LMS%20Architect-1B2A4A?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🏆-MERN%20Stack%20Developer-1B2A4A?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🏆-SEO%20Expert-1B2A4A?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🏆-Business%20Consultant-1B2A4A?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ðŸ†-Full%20Stack%20Developer-1B2A4A?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ðŸ†-Graphic%20Designer-1B2A4A?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ðŸ†-Digital%20Marketing%20Specialist-1B2A4A?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ðŸ†-LMS%20Architect-1B2A4A?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ðŸ†-MERN%20Stack%20Developer-1B2A4A?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ðŸ†-SEO%20Expert-1B2A4A?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ðŸ†-Business%20Consultant-1B2A4A?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## ðŸ“š Currently Learning
 
 <div align="center">
 
@@ -337,11 +337,11 @@ Custom automation systems for lead management, marketing workflows, and operatio
 
 ---
 
-## 🎮 Fun Facts
+## ðŸŽ® Fun Facts
 
 <div align="center">
 
-| 🎴 Anime | 🎧 Music | 🦸 Marvel | 🧩 Problem Solving | ⚙️ Tech | 📊 Growth |
+| ðŸŽ´ Anime | ðŸŽ§ Music | ðŸ¦¸ Marvel | ðŸ§© Problem Solving | âš™ï¸ Tech | ðŸ“Š Growth |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Lifelong fan | Always playing | Marvel universe nerd | Creative solver | Forever curious | Growth hacker |
 
@@ -349,7 +349,7 @@ Custom automation systems for lead management, marketing workflows, and operatio
 
 ---
 
-## 🔗 Connect With Me
+## ðŸ”— Connect With Me
 
 <div align="center">
 
